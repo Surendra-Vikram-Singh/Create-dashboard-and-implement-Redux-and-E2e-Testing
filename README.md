@@ -18,8 +18,8 @@ This project is an Angular application that includes unit and end-to-end (E2E) t
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone <https://github.com/surendra38/-Kugelblitz-Assignment.git>
+    cd <master>
     ```
 
 2. **Install dependencies:**
